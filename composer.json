@@ -1,0 +1,15 @@
+{
+    "name": "asifraza/load-router",
+    "description": "The router implamentation example",
+    "type": "project",
+    "require": {
+        "klein/klein": "^2.1"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "raoasifraza11",
+            "email": "raoasifraza1@hotmail.com"
+        }
+    ]
+}
